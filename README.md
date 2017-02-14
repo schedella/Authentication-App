@@ -1,13 +1,13 @@
-## MEAN Application
+## Authenticaion Application
 ### Login application using ExpressJS, NodeJS & MongoDB
 
 - express used as web framework
 - Node used as server
 
 ## Implemented following authentication modules
-- Local
-- Google
-- Facebook
+- Local - completed
+- Google - in Progress
+- Facebook - in Progress
 
 ## Run
 

@@ -4,6 +4,7 @@
   "description": "Authentication App using ExpressJS, NodeJS, MongoDB & Passport",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sudheer Chedella",
